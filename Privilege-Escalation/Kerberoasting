@@ -1,1 +1,9 @@
+# Kerberoasting
 
+Tool: Impacket GetUserSPNs.py
+
+Objective:
+Extract service account hash for offline cracking.
+
+MITRE Technique:
+T1558.003 – Kerberoasting
